@@ -19,11 +19,11 @@ How to run the Student Management System (StudentMS) Project
 Credential for admin panel :
 
 Username: admin
-Password: Test@123
+Password: 1234
 
 Credential for Student / User panel :
 
-Username: anujk3
-Password: Test@123
+Username: ALI
+Password: ALI
 
  Or Register a new Student/User.
